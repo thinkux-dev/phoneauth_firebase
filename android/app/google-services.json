@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017194946409",
+    "project_id": "phoneauthflutter-4e65e",
+    "storage_bucket": "phoneauthflutter-4e65e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017194946409:android:d7abea3c7cf5725b0927f8",
+        "android_client_info": {
+          "package_name": "com.example.phoneauth_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4IBmUXmpcwlhaD0KAB2XsUB4bb7m9RHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
